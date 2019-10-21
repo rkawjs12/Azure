@@ -1,0 +1,21 @@
+yswoo01.eastus.cloudapp.azure.com
+yswoo02	.eastus.cloudapp.azure.com
+
+yswooLB
+
+
+ssh adminuser@yswoo02.eastus.cloudapp.azure.com 		주소로 들어가기
+sudo yum install epel-release -y				웹을 쓰기위한 파일 다운로드 1
+sudo yum install nginx -y					웹을 쓰기위한 파일 다운로드 2
+sudo systemctl start nginx					웹을 쓰기위한 파일 실행
+sudo systemctl enable nginx					웹을 쓰기위한 파일 권한주기
+sudo passwd						비밀번호 1로 바꾸는 과정
+su							관리자로 변경
+sudo find / -name "index.html"				index.html 위치 찾기
+echo "sibadog1" > /usr/share/nginx/html/index.html		웹 페이지 생성
+
+net users							유저의 정보를 볼 수 있다
+net users administrator					administrator 정보 볼 수 있다.
+net users administrator /active:yes
+logoff							컴터를 끌 수 있다.
+

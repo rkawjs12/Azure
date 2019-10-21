@@ -1,0 +1,70 @@
+상용인프라 솔루션 구축 및 활용
+
+1. Azure 가상화 서비스 구성
+Microsoft Azure 시작 - 클라우드 컴퓨팅
+- Azure 정의 
+- Azure 관리 
+- 구독 관리, 지원과 비용 Microsoft Azure 관리 도구 
+- Azure PowerShell 
+- Azure SDK와 Azure CLI Azure에서 가상 컴퓨터 
+- 가상 컴퓨터 생성과 구성 
+- 디스크 구성 웹 앱 
+- 웹 앱 생성 및 구성 
+- 웹 앱 게시와 모니터링 
+- 클라우드 서비스 생성 및 배포 가상 네트워크 생성과 구성 
+- 가상 네트워크 시작 
+- 가상 네트워크 생성 
+- Azure 부하 분산 클라우드 저장소 
+- 클라우드 저장소 이해 
+- 저장소 생성과 관리 Azure SQL 데이터베이스 
+- Azure SQL 데이터베이스 생성 
+- Azure SQL 데이터베이스 연결 Azure AD 
+- Azure AD 소개 
+- Azure AD 인증 관리
+	
+2. Azure 인프라 솔루션 구현	Azure 소개 
+- Cloud 기술 개요 
+- Azure 개요 
+- Azure Portal을 사용하여 Azure 관리하기 
+- Windows PowerShell을 사용하여 Azure 관리하기 
+- Azure CLI을 사용하여 Azure 관리하기 
+- Azure 배포 모델 개요 
+- Azure Resource 관리와 모니터링 Azure networking 구현 및 관리하기 
+- Azure networking 개요 
+- Azure virtual network 구현 및 관리하기 
+- Azure virtual network 구성하기 
+- Azure virtual network connectivity 구성하기 
+- Azure Classic Networking 개요 가상 컴퓨터 구현하기 
+- virtual machine 개요 
+- Azure virtual machine 배포 계획하기 
+- Azure virtual machine 배포하기 
+- Azure Classic virtual machine 개요 가상 컴퓨터 관리하기 
+- virtual machine 구성하기 
+- virtual machine disk 관리하기 
+- Azure virtual machine 관리 및 모니터링 
+- Classic virtual machine 관리하기 Azure Web App 서비스 구현하기 
+- Azure App Service 소개 
+- Azure Web App 배포 계획하기 
+- Web App 구현 및 유지보수 하기 
+- Web App 구성하기 
+- Web App 및 Web Job 모니터링 
+- Mobile App 구현하기 
+- Azure Traffic Manager 구현하기 Azure Storage 계획 및 구현하기 
+- Storage 계획하기 
+- Azure Storage 구현 및 관리하기 
+- Azure hybrid storage 솔루션 살펴보기 
+- Azure Content Delivery Network 구현하기 Azure Containers 구현하기 
+- Azure에 Windows & Linux containers 구현 
+- Azure Containers 서비스 구현하기 Backup & Disaster recovery 계획 및 구현 
+- Azure backup 계획과 구현 - Azure site recovery 개요 - Azure site recovery를 위한 계획 
+- Azure site recovery site로 site recovery 구현 Azure Active Directory 구현하기 
+- Azure AD tenant 생성 및 관리하기 
+- Azure AD를 사용하여 응용 프로그램과 자원에 액세스하도록 구성하기 
+- Azure AD Premium Storage 개요 하이브리드 환경에서의 Active Directory 인프라 관리와 클라우드 시나리오 
+- Azure lass를 활용한 사내 Active Directory 디자인과 구현 
+- Azure AD 와 사내 AD DS 디렉터리 동기화 구현하기 
+- AD FS 및 Web Application Proxy를 사용하여 SSO 구현하기 Azure 기반 관리 및 자동화 구현하기 
+- Azure 기반의 모니터링 과 관리 솔루션 사용하기 
+- Azure Automation 구현하기 
+- Automation Runbook 구현하기 
+- Automation 기반의 관리구현
